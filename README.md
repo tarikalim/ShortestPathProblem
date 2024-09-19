@@ -66,6 +66,7 @@ This is a depth-limited version of the DFS algorithm. It searches for the shorte
 The BFS algorithm uses a queue-based approach to find the shortest path between cities. It calculates distances between connected cities and provides the shortest route.
 
 ## Screenshots
+Note: City positions are randomly generated for the visual interface, there is no distance value.
 ### Limited Depth First Search (DFS)![BFS](/images/BFS.png)
 ### Breadth First Search (BFS)
 ![DFS](/images/DFS.png)
